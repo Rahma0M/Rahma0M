@@ -6,9 +6,7 @@
 <h3 align="center">Aspiring Software Engineer| Student | Seeking summer internship.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/bb/06/32/bb063239e57b208e973e7f27e2fbd6a2.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahma0m&label=Profile%20views&color=0e75b6&style=flat" alt="rahma0m" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahma0m" alt="rahma0m" /></a> </p>
 
 - 🌱 I’m currently learning **data structure**
 
